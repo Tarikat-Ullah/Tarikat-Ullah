@@ -1,6 +1,7 @@
+![I am a Student](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-1/s200x200/246435427_3067299910175925_3044698035279259034_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BmScJ5VYknwAX9ktHVN&_nc_ht=scontent.fcgp17-1.fna&oh=f130740b40118718f305830fd4a84943&oe=61AB5ED3)
 ### Hi there 👋, my name is Tarikat Ullah
 #### I am a Student
-![I am a Student](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-1/s200x200/246435427_3067299910175925_3044698035279259034_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=7206a8&_nc_ohc=BmScJ5VYknwAX9ktHVN&_nc_ht=scontent.fcgp17-1.fna&oh=f130740b40118718f305830fd4a84943&oe=61AB5ED3)
+
 
 I am
 
