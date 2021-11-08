@@ -4,7 +4,7 @@
 
 I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best.I love meeting new people and learning about their lives and their backgrounds. I can almost always find common ground with strangers, and I like making people feel comfortable in my presence.
 
-Skills:  REACT / JS / HTML / CSS
+Skills:   C /Java
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java  
