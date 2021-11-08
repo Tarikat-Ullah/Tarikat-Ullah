@@ -8,7 +8,9 @@ Skills:   C /Java
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java  
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on github
+- - 📫 How to reach me: tarikat940@gmail.com 
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tarikat-Ullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tarikat Ullah)  
