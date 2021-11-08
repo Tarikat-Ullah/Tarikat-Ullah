@@ -19,4 +19,5 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarikat-Ullah) 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Tarikat-Ullah)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/Tarikat-Ullah) 
+![Profile views](https://gpvc.arturio.dev/Tarikat-Ullah)  
