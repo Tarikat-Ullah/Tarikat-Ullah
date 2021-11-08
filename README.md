@@ -13,6 +13,7 @@ Skills:  REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tarikat-Ullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tarikat Ullah)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikat-Ullah)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tarikat-Ullah)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarikat-Ullah&show_icons=true)  
 
